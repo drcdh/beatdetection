@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Audio files and beatmaps
+*.mp3
+*.wav
+*.beatmap.txt
